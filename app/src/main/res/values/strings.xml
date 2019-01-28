@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTaskProgress</string>
+    <string name="btnI">Start</string>
+</resources>
